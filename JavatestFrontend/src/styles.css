@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.min.css";
+/* css (screen and max-width: 1920px) */
+.footer{
+    position: absolute;
+    bottom: 0;
+    background-color: #0d5283;;
+    width: 100%;
+    height: 70px;
+    text-align: center;
+    color: floralwhite;
+}
